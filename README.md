@@ -1451,15 +1451,7 @@ Comprehensive dashboard showing system status and quick access to all features:
 
 ![Dashboard](./docs/dashboard.png)
 
-*Features: System health monitoring, processing pipeline status, quick navigation*
-
-### 📄 Document Management
-
-Intuitive document upload, processing, and management interface:
-
-![Document Management](./docs/chat.png)
-
-*Features: Drag-and-drop upload, batch processing, real-time status updates, document filtering*
+*Features: System health monitoring, processing pipeline status, quick navigation,Intuitive document upload, processing, and management interface*
 
 ### 🕸️ Knowledge Graph Visualization
 
