@@ -46,19 +46,3 @@ Built-in API documentation with interactive testing capabilities:
 ![API Documentation](./docs/api.png)
 
 *Features: Interactive API explorer, request/response examples, authentication testing, endpoint documentation*
-
-### ✨ Key Interface Features
-
-- **🌓 Dark/Light Theme**: Seamless theme switching for comfortable viewing
-- **📱 Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **🌍 Multi-language Support**: Chinese, English, French, Arabic, and more
-- **⚡ Real-time Updates**: Live status updates and progress indicators
-- **🎛️ Advanced Controls**: Fine-grained parameter tuning and configuration
-- **📊 Visual Analytics**: Rich charts and graphs for data insights
-- **🔍 Smart Search**: Intelligent search across documents and knowledge graphs
-- **💾 Data Export**: Export knowledge graphs in various formats
-
-
-## LightRAG API
-
-The LightRAG Server is designed to provide Web UI and API support.  **For more information about LightRAG Server, please refer to [LightRAG Server](./lightrag/api/README.md).**
