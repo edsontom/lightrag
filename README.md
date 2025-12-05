@@ -1,8 +1,7 @@
 
-# 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation
+# Simple and Fast Retrieval-Augmented Generation
 
 **original repo:** https://github.com/HKUDS/LightRAG
-
 
 ## 🎨 Web UI Interface
 
